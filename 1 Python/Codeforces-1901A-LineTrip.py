@@ -1,0 +1,16 @@
+#performs at 78ms, 0Kb
+
+nc = int (input())
+
+for _ in range(nc):
+    n,x = map(int, input().rstrip().split())
+    stations = list(map(int, input().rstrip().split()))
+    diffsArray = [stations[0]] #initiate for boundary cases (like testcase 3)
+    
+    #now that stations contains all the points of journey
+    for p in range(len(stations)):
+        if p!=len(stations)-1:
+            diffsArray.append(stations[p+1]-stations[p])
+        else:
+            diffsArray.append(2*(x-stations[p]))
+    print(max(diffsArray))
