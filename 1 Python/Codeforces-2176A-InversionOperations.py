@@ -14,8 +14,3 @@ for _ in range(nc):
             continue
 
     print(operations)
-
-
-
-
-
