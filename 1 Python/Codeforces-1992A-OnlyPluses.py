@@ -1,7 +1,7 @@
 # 2 versions of the code
 # v1 is a brute force approach
 # v2 is more elegant and refined
-# while both the codes solve the problem, v2 is ingenious and parsimonious - albeit requires sorting 5 times
+# while both the codes solve the problem, v2 is aimed at being parsimonious - albeit requires sorting 5 times
 
 #v2 O(1)
 import math as m
