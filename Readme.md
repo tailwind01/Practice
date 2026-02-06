@@ -1,7 +1,26 @@
 # Practice Repository - CP Problems
 
-This repo is kind of my personal problem solving practice cloud. The solutions contained herein are mostly for the easy-tier problems from various CP platforms eg. Codeforces, Leetcode, Hackerrank, HackerEarth. The naming convention used for the files is such that it would be easy to cross-reference with the problem its code is intended to solve
+This repo is kind of my personal problem solving practice cloud. The solutions
+contained herein are mostly for the easy-tier problems from various CP
+platforms eg. Codeforces, Leetcode, Hackerrank, HackerEarth. The naming
+convention used for the files is such that it would be easy to cross-reference
+with the problem its code is intended to solve
 
-My primary aim when implementing these solutions was to be clear and concise about the logic underneath it all. I have primarily implemented my solutions in Python (owing to my familiarity with its syntax, the abundance of libraries and a fantastic online community). I have also tried to solve some of the same problems in low-level languages such as C, CPP. Whilst I have tried doing some JS, TS on LeetCode, as of the date of committing this, I have to still get accustomed to many things JS/TS have to offer. To practice statistical analysis, R is used and for data analysis some basic SQL Practice scripts are there
+My primary aim when implementing these solutions was to be clear and concise
+about the logic underneath it all. I have primarily implemented my solutions in
+Python (owing to my familiarity with its syntax, the abundance of libraries and
+a fantastic online community). I have also tried to solve some of the same
+problems in low-level languages such as C, CPP. Whilst I have tried doing some
+JS, TS on LeetCode, as of the date of committing this, I have to still get
+accustomed to many things JS/TS have to offer. To practice statistical
+analysis, R is used and for data analysis some basic SQL Practice scripts are
+there
 
-W.r.t many of the implementations submitted, I am well-aware of their rudimentary nature. In my defence, I lack the formal training. I am maintaining this repo to stay engaged in solving these problems, pursuing incremental knowledge, to maintain a hobby for as long as I can - in an accounting sense 'spending' of time, and last-but not the least- I thought doing "git add, git commit, git push" would at least be something to do :smile:
+W.r.t many of the implementations submitted, I am well-aware of their
+rudimentary nature. In my defence, I lack the formal training. I am maintaining
+this repo to stay engaged in solving these problems, pursuing incremental
+knowledge, to maintain a hobby for as long as I can - in an accounting sense
+'spending' of time, and last-but not the least- I thought doing "git add, git
+commit, git push" would at least be something to do :smile:
+
+
