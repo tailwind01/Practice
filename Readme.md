@@ -16,7 +16,7 @@ accustomed to many things JS/TS have to offer. To practice statistical
 analysis, R is used and for data analysis some basic SQL Practice scripts are
 there
 
-W.r.t many of these implementations submitted, I am well-aware of their
+W.r.t many of the implementations submitted, I am well-aware of their
 rudimentary nature. In my defence, I lack the formal training. I am maintaining
 this repo to stay engaged in solving these problems, pursuing incremental
 knowledge, to maintain a hobby for as long as I can - in an accounting sense
